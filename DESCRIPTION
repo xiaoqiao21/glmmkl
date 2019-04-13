@@ -1,0 +1,18 @@
+Package: glmmkl
+Title: Multiple Kernel Learning for Generalized Linear Models
+Version: 0.0.0.9
+Date: 2019-04-12
+Author: Kaiqiao Li [aut, cre],
+  Pei Fen Kuan [ctb],
+  Xuefeng Wang [ctb]
+Maintainer: Kaiqiao Li <kaiqiao.li@stonybrook.edu>
+Description: Implementing multiple kernel learning methods for Gaussian and logistic families, can be used for regression and classification.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 6.1.1
+LinkingTo: 
+    Rcpp,
+    RcppArmadillo
+Imports: 
+    Rcpp
